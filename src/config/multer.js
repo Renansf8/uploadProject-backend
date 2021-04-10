@@ -57,7 +57,3 @@ module.exports = {
     }
   }
 };
-
-// 'dest' -> PARA ONDE OS ARQUIVOS VÃO DEPOIS QUE FIZER O ULPOAD
-// '__dirname' -> SE REFERE AO DIRETÓRIO 'config'
-// depois do '__dirname' VAI DESCER 2 CAMINHOS E ABRIR A PASTA 'tmp' E 'uploads'
